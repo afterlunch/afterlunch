@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afterlunch
+- 👋 Hi, I’m @afterlunch, a nettwork engineer
 - 👀 I’m interested in scapy ssr openvpn
 - 🌱 I’m currently learning python C 
 - 💞️ I’m looking to collaborate on ...
