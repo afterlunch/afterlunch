@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afterlunch, a nettwork engineer
 - 👀 I’m interested in scapy ssr openvpn
 - 🌱 I’m currently learning python C 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python c++
 
 <!---
 afterlunch/afterlunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
